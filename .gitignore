@@ -1,0 +1,33 @@
+# Python Virtual Environments (Thư mục môi trường ảo Python)
+.venv/
+venv/
+ENV/
+env/
+
+# Python bytecode / compiler cache (Bộ nhớ đệm biên dịch của Python)
+**/__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Log files (Các file nhật ký ghi lỗi/quá trình chạy)
+*.log
+**/treasure_hunter.log
+
+# Game Save States / User Progress (Lưu dữ liệu chơi game của người dùng)
+unlocked_levels.json
+**/unlocked_levels.json
+
+# IDEs and Text Editors settings (Cài đặt của các trình soạn thảo mã nguồn)
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.swp
+
+# OS generated files (Các file rác do hệ điều hành tạo ra)
+.DS_Store
+Thumbs.db
+Desktop.ini

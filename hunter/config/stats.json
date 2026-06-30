@@ -1,0 +1,746 @@
+{
+    "1": {
+        "ai": [
+            {
+                "is_ai": true,
+                "algorithm_key": "astar",
+                "time_elapsed": 25.881999999999216,
+                "path_cost": 46.0,
+                "nodes_expanded": 149,
+                "treasures_collected": 0,
+                "deaths": 0,
+                "combat_wins": 0
+            }
+        ],
+        "bfs": [
+            {
+                "is_ai": true,
+                "algorithm_key": "bfs",
+                "time_elapsed": 79.91400000000029,
+                "path_cost": 174.0,
+                "nodes_expanded": 4,
+                "treasures_collected": 0,
+                "deaths": 0,
+                "combat_wins": 0,
+                "steps_taken": 174,
+                "memory_peak": 0,
+                "treasures_total": 3,
+                "completion_pct": 100.0,
+                "hp_remaining": 100,
+                "star_rating": 2
+            },
+            {
+                "is_ai": true,
+                "algorithm_key": "bfs",
+                "time_elapsed": 83.941000000001,
+                "path_cost": 174.0,
+                "nodes_expanded": 4,
+                "treasures_collected": 0,
+                "deaths": 0,
+                "combat_wins": 0,
+                "steps_taken": 174,
+                "memory_peak": 0,
+                "treasures_total": 3,
+                "completion_pct": 100.0,
+                "hp_remaining": 100,
+                "star_rating": 2
+            },
+            {
+                "is_ai": true,
+                "algorithm_key": "bfs",
+                "time_elapsed": 82.24800000000079,
+                "path_cost": 174.0,
+                "nodes_expanded": 4,
+                "treasures_collected": 0,
+                "deaths": 0,
+                "combat_wins": 0,
+                "steps_taken": 174,
+                "memory_peak": 0,
+                "treasures_total": 3,
+                "completion_pct": 100.0,
+                "hp_remaining": 100,
+                "star_rating": 2
+            },
+            {
+                "is_ai": true,
+                "algorithm_key": "bfs",
+                "time_elapsed": 82.41000000000098,
+                "path_cost": 174.0,
+                "nodes_expanded": 4,
+                "treasures_collected": 0,
+                "deaths": 0,
+                "combat_wins": 0,
+                "steps_taken": 174,
+                "memory_peak": 0,
+                "treasures_total": 3,
+                "completion_pct": 100.0,
+                "hp_remaining": 100,
+                "star_rating": 2
+            },
+            {
+                "is_ai": true,
+                "algorithm_key": "bfs",
+                "time_elapsed": 270.85899999995934,
+                "path_cost": 174.0,
+                "nodes_expanded": 4,
+                "treasures_collected": 0,
+                "deaths": 0,
+                "combat_wins": 0,
+                "steps_taken": 174,
+                "memory_peak": 0,
+                "treasures_total": 3,
+                "completion_pct": 100.0,
+                "hp_remaining": 100,
+                "star_rating": 2
+            }
+        ]
+    },
+    "6": {
+        "ai": [
+            {
+                "is_ai": true,
+                "algorithm_key": "expectimax",
+                "time_elapsed": 26.44299999999933,
+                "path_cost": 72.0,
+                "nodes_expanded": 0,
+                "treasures_collected": 0,
+                "deaths": 0,
+                "combat_wins": 0,
+                "steps_taken": 72,
+                "memory_peak": 0,
+                "treasures_total": 1,
+                "completion_pct": 100.0,
+                "hp_remaining": 10,
+                "star_rating": 1
+            }
+        ],
+        "expectimax": [
+            {
+                "is_ai": true,
+                "algorithm_key": "expectimax",
+                "time_elapsed": 26.44299999999933,
+                "path_cost": 72.0,
+                "nodes_expanded": 0,
+                "treasures_collected": 0,
+                "deaths": 0,
+                "combat_wins": 0,
+                "steps_taken": 72,
+                "memory_peak": 0,
+                "treasures_total": 1,
+                "completion_pct": 100.0,
+                "hp_remaining": 10,
+                "star_rating": 1
+            }
+        ],
+        "minimax": [
+            {
+                "is_ai": true,
+                "algorithm_key": "minimax",
+                "time_elapsed": 33.644999999999065,
+                "path_cost": 72.0,
+                "nodes_expanded": 0,
+                "treasures_collected": 0,
+                "deaths": 0,
+                "combat_wins": 0,
+                "steps_taken": 72,
+                "memory_peak": 0,
+                "treasures_total": 1,
+                "completion_pct": 100.0,
+                "hp_remaining": 55,
+                "star_rating": 2
+            }
+        ],
+        "alpha_beta": [
+            {
+                "is_ai": true,
+                "algorithm_key": "alpha_beta",
+                "time_elapsed": 28.824999999998983,
+                "path_cost": 72.0,
+                "nodes_expanded": 0,
+                "treasures_collected": 0,
+                "deaths": 0,
+                "combat_wins": 0,
+                "steps_taken": 72,
+                "memory_peak": 0,
+                "treasures_total": 1,
+                "completion_pct": 100.0,
+                "hp_remaining": 10,
+                "star_rating": 1
+            }
+        ],
+        "human": [
+            {
+                "is_ai": false,
+                "algorithm_key": "",
+                "time_elapsed": 70.75400000000036,
+                "path_cost": 78.0,
+                "nodes_expanded": 0,
+                "treasures_collected": 0,
+                "deaths": 0,
+                "combat_wins": 0,
+                "steps_taken": 78,
+                "memory_peak": 0,
+                "treasures_total": 1,
+                "completion_pct": 33.33333333333333,
+                "hp_remaining": 37,
+                "star_rating": 2
+            }
+        ]
+    },
+    "2": {
+        "ai": [
+            {
+                "is_ai": true,
+                "algorithm_key": "astar",
+                "time_elapsed": 22.152999999999835,
+                "path_cost": 46.0,
+                "nodes_expanded": 2,
+                "treasures_collected": 0,
+                "deaths": 0,
+                "combat_wins": 0,
+                "steps_taken": 46,
+                "memory_peak": 0,
+                "treasures_total": 3,
+                "completion_pct": 100.0,
+                "hp_remaining": 100,
+                "star_rating": 2
+            }
+        ],
+        "astar": [
+            {
+                "is_ai": true,
+                "algorithm_key": "astar",
+                "time_elapsed": 22.152999999999835,
+                "path_cost": 46.0,
+                "nodes_expanded": 2,
+                "treasures_collected": 0,
+                "deaths": 0,
+                "combat_wins": 0,
+                "steps_taken": 46,
+                "memory_peak": 0,
+                "treasures_total": 3,
+                "completion_pct": 100.0,
+                "hp_remaining": 100,
+                "star_rating": 2
+            },
+            {
+                "is_ai": true,
+                "algorithm_key": "astar",
+                "time_elapsed": 676.2200000000091,
+                "path_cost": 46.0,
+                "nodes_expanded": 2,
+                "treasures_collected": 0,
+                "deaths": 0,
+                "combat_wins": 0,
+                "steps_taken": 46,
+                "memory_peak": 0,
+                "treasures_total": 3,
+                "completion_pct": 100.0,
+                "hp_remaining": 100,
+                "star_rating": 2
+            },
+            {
+                "is_ai": true,
+                "algorithm_key": "astar",
+                "time_elapsed": 151.04300000000458,
+                "path_cost": 46.0,
+                "nodes_expanded": 2,
+                "treasures_collected": 0,
+                "deaths": 0,
+                "combat_wins": 0,
+                "steps_taken": 46,
+                "memory_peak": 0,
+                "treasures_total": 3,
+                "completion_pct": 100.0,
+                "hp_remaining": 100,
+                "star_rating": 2
+            }
+        ],
+        "greedy": [
+            {
+                "is_ai": true,
+                "algorithm_key": "greedy",
+                "time_elapsed": 36.69399999999938,
+                "path_cost": 46.0,
+                "nodes_expanded": 2,
+                "treasures_collected": 0,
+                "deaths": 0,
+                "combat_wins": 0,
+                "steps_taken": 46,
+                "memory_peak": 0,
+                "treasures_total": 3,
+                "completion_pct": 100.0,
+                "hp_remaining": 100,
+                "star_rating": 2
+            }
+        ],
+        "ucs": [
+            {
+                "is_ai": true,
+                "algorithm_key": "ucs",
+                "time_elapsed": 33.6109999999989,
+                "path_cost": 46.0,
+                "nodes_expanded": 3,
+                "treasures_collected": 0,
+                "deaths": 0,
+                "combat_wins": 0,
+                "steps_taken": 46,
+                "memory_peak": 0,
+                "treasures_total": 3,
+                "completion_pct": 100.0,
+                "hp_remaining": 100,
+                "star_rating": 2
+            }
+        ],
+        "human": [
+            {
+                "is_ai": false,
+                "algorithm_key": "",
+                "time_elapsed": 49.51299999999975,
+                "path_cost": 142.0,
+                "nodes_expanded": 0,
+                "treasures_collected": 2,
+                "deaths": 0,
+                "combat_wins": 0,
+                "steps_taken": 131,
+                "memory_peak": 0,
+                "treasures_total": 3,
+                "completion_pct": 66.66666666666666,
+                "hp_remaining": 90,
+                "star_rating": 2
+            }
+        ]
+    },
+    "3": {
+        "ai": [
+            {
+                "is_ai": true,
+                "algorithm_key": "local_beam",
+                "time_elapsed": 19.846999999999692,
+                "path_cost": 46.0,
+                "nodes_expanded": 4,
+                "treasures_collected": 0,
+                "deaths": 0,
+                "combat_wins": 0,
+                "steps_taken": 46,
+                "memory_peak": 0,
+                "treasures_total": 3,
+                "completion_pct": 100.0,
+                "hp_remaining": 100,
+                "star_rating": 2
+            }
+        ],
+        "local_beam": [
+            {
+                "is_ai": true,
+                "algorithm_key": "local_beam",
+                "time_elapsed": 20.146999999999657,
+                "path_cost": 46.0,
+                "nodes_expanded": 4,
+                "treasures_collected": 0,
+                "deaths": 0,
+                "combat_wins": 0,
+                "steps_taken": 46,
+                "memory_peak": 0,
+                "treasures_total": 3,
+                "completion_pct": 100.0,
+                "hp_remaining": 100,
+                "star_rating": 2
+            },
+            {
+                "is_ai": true,
+                "algorithm_key": "local_beam",
+                "time_elapsed": 30.058999999999017,
+                "path_cost": 56.0,
+                "nodes_expanded": 2,
+                "treasures_collected": 0,
+                "deaths": 0,
+                "combat_wins": 0,
+                "steps_taken": 56,
+                "memory_peak": 0,
+                "treasures_total": 3,
+                "completion_pct": 100.0,
+                "hp_remaining": 100,
+                "star_rating": 2
+            },
+            {
+                "is_ai": true,
+                "algorithm_key": "local_beam",
+                "time_elapsed": 86.87100000000086,
+                "path_cost": 210.0,
+                "nodes_expanded": 3,
+                "treasures_collected": 0,
+                "deaths": 0,
+                "combat_wins": 0,
+                "steps_taken": 210,
+                "memory_peak": 0,
+                "treasures_total": 3,
+                "completion_pct": 100.0,
+                "hp_remaining": 100,
+                "star_rating": 2
+            },
+            {
+                "is_ai": true,
+                "algorithm_key": "local_beam",
+                "time_elapsed": 30.997999999998893,
+                "path_cost": 54.0,
+                "nodes_expanded": 2,
+                "treasures_collected": 0,
+                "deaths": 0,
+                "combat_wins": 0,
+                "steps_taken": 54,
+                "memory_peak": 0,
+                "treasures_total": 3,
+                "completion_pct": 100.0,
+                "hp_remaining": 100,
+                "star_rating": 2
+            },
+            {
+                "is_ai": true,
+                "algorithm_key": "local_beam",
+                "time_elapsed": 32.44799999999885,
+                "path_cost": 74.0,
+                "nodes_expanded": 4,
+                "treasures_collected": 0,
+                "deaths": 0,
+                "combat_wins": 0,
+                "steps_taken": 74,
+                "memory_peak": 0,
+                "treasures_total": 3,
+                "completion_pct": 100.0,
+                "hp_remaining": 100,
+                "star_rating": 2
+            }
+        ]
+    },
+    "4": {
+        "ai": [
+            {
+                "is_ai": true,
+                "algorithm_key": "partial_obs",
+                "time_elapsed": 20.8419999999996,
+                "path_cost": 53.0,
+                "nodes_expanded": 5,
+                "treasures_collected": 1,
+                "deaths": 0,
+                "combat_wins": 0,
+                "steps_taken": 53,
+                "memory_peak": 0,
+                "treasures_total": 3,
+                "completion_pct": 100.0,
+                "hp_remaining": 100,
+                "star_rating": 2
+            }
+        ],
+        "no_observation": [
+            {
+                "is_ai": true,
+                "algorithm_key": "no_observation",
+                "time_elapsed": 21.092999999999584,
+                "path_cost": 53.0,
+                "nodes_expanded": 575,
+                "treasures_collected": 0,
+                "deaths": 0,
+                "combat_wins": 0,
+                "steps_taken": 53,
+                "memory_peak": 0,
+                "treasures_total": 3,
+                "completion_pct": 100.0,
+                "hp_remaining": 100,
+                "star_rating": 2
+            },
+            {
+                "is_ai": true,
+                "algorithm_key": "no_observation",
+                "time_elapsed": 33.99999999999906,
+                "path_cost": 65.0,
+                "nodes_expanded": 575,
+                "treasures_collected": 0,
+                "deaths": 0,
+                "combat_wins": 0,
+                "steps_taken": 65,
+                "memory_peak": 0,
+                "treasures_total": 3,
+                "completion_pct": 100.0,
+                "hp_remaining": 100,
+                "star_rating": 2
+            },
+            {
+                "is_ai": true,
+                "algorithm_key": "no_observation",
+                "time_elapsed": 22.013999999999537,
+                "path_cost": 53.0,
+                "nodes_expanded": 575,
+                "treasures_collected": 0,
+                "deaths": 0,
+                "combat_wins": 0,
+                "steps_taken": 53,
+                "memory_peak": 0,
+                "treasures_total": 3,
+                "completion_pct": 100.0,
+                "hp_remaining": 100,
+                "star_rating": 2
+            },
+            {
+                "is_ai": true,
+                "algorithm_key": "no_observation",
+                "time_elapsed": 22.392999999999493,
+                "path_cost": 53.0,
+                "nodes_expanded": 575,
+                "treasures_collected": 0,
+                "deaths": 0,
+                "combat_wins": 0,
+                "steps_taken": 53,
+                "memory_peak": 0,
+                "treasures_total": 3,
+                "completion_pct": 100.0,
+                "hp_remaining": 100,
+                "star_rating": 2
+            }
+        ],
+        "partial_obs": [
+            {
+                "is_ai": true,
+                "algorithm_key": "partial_obs",
+                "time_elapsed": 41.14899999999943,
+                "path_cost": 89.0,
+                "nodes_expanded": 5,
+                "treasures_collected": 1,
+                "deaths": 0,
+                "combat_wins": 0,
+                "steps_taken": 89,
+                "memory_peak": 0,
+                "treasures_total": 3,
+                "completion_pct": 100.0,
+                "hp_remaining": 100,
+                "star_rating": 2
+            },
+            {
+                "is_ai": true,
+                "algorithm_key": "partial_obs",
+                "time_elapsed": 20.8419999999996,
+                "path_cost": 53.0,
+                "nodes_expanded": 5,
+                "treasures_collected": 1,
+                "deaths": 0,
+                "combat_wins": 0,
+                "steps_taken": 53,
+                "memory_peak": 0,
+                "treasures_total": 3,
+                "completion_pct": 100.0,
+                "hp_remaining": 100,
+                "star_rating": 2
+            },
+            {
+                "is_ai": true,
+                "algorithm_key": "partial_obs",
+                "time_elapsed": 22.739999999999455,
+                "path_cost": 53.0,
+                "nodes_expanded": 5,
+                "treasures_collected": 1,
+                "deaths": 0,
+                "combat_wins": 0,
+                "steps_taken": 53,
+                "memory_peak": 0,
+                "treasures_total": 3,
+                "completion_pct": 100.0,
+                "hp_remaining": 100,
+                "star_rating": 2
+            }
+        ],
+        "and_or": [
+            {
+                "is_ai": true,
+                "algorithm_key": "and_or",
+                "time_elapsed": 56.65999999999978,
+                "path_cost": 53.0,
+                "nodes_expanded": 22,
+                "treasures_collected": 0,
+                "deaths": 0,
+                "combat_wins": 0,
+                "steps_taken": 53,
+                "memory_peak": 0,
+                "treasures_total": 3,
+                "completion_pct": 100.0,
+                "hp_remaining": 100,
+                "star_rating": 2
+            },
+            {
+                "is_ai": true,
+                "algorithm_key": "and_or",
+                "time_elapsed": 100.65400000000052,
+                "path_cost": 53.0,
+                "nodes_expanded": 22,
+                "treasures_collected": 0,
+                "deaths": 0,
+                "combat_wins": 0,
+                "steps_taken": 53,
+                "memory_peak": 0,
+                "treasures_total": 3,
+                "completion_pct": 100.0,
+                "hp_remaining": 100,
+                "star_rating": 2
+            }
+        ]
+    },
+    "5": {
+        "ai": [
+            {
+                "is_ai": true,
+                "algorithm_key": "backtracking",
+                "time_elapsed": 19.670999999999683,
+                "path_cost": 54.0,
+                "nodes_expanded": 5,
+                "treasures_collected": 0,
+                "deaths": 0,
+                "combat_wins": 0,
+                "steps_taken": 54,
+                "memory_peak": 0,
+                "treasures_total": 2,
+                "completion_pct": 100.0,
+                "hp_remaining": 100,
+                "star_rating": 2
+            }
+        ],
+        "constraint_propagation": [
+            {
+                "is_ai": true,
+                "algorithm_key": "constraint_propagation",
+                "time_elapsed": 26.18799999999926,
+                "path_cost": 54.0,
+                "nodes_expanded": 5,
+                "treasures_collected": 0,
+                "deaths": 0,
+                "combat_wins": 0,
+                "steps_taken": 54,
+                "memory_peak": 0,
+                "treasures_total": 2,
+                "completion_pct": 100.0,
+                "hp_remaining": 100,
+                "star_rating": 2
+            },
+            {
+                "is_ai": true,
+                "algorithm_key": "constraint_propagation",
+                "time_elapsed": 37.95399999999928,
+                "path_cost": 54.0,
+                "nodes_expanded": 3,
+                "treasures_collected": 0,
+                "deaths": 0,
+                "combat_wins": 0,
+                "steps_taken": 54,
+                "memory_peak": 0,
+                "treasures_total": 2,
+                "completion_pct": 100.0,
+                "hp_remaining": 100,
+                "star_rating": 2
+            },
+            {
+                "is_ai": true,
+                "algorithm_key": "constraint_propagation",
+                "time_elapsed": 22.998999999999413,
+                "path_cost": 54.0,
+                "nodes_expanded": 5,
+                "treasures_collected": 0,
+                "deaths": 0,
+                "combat_wins": 0,
+                "steps_taken": 54,
+                "memory_peak": 0,
+                "treasures_total": 2,
+                "completion_pct": 100.0,
+                "hp_remaining": 100,
+                "star_rating": 2
+            },
+            {
+                "is_ai": true,
+                "algorithm_key": "constraint_propagation",
+                "time_elapsed": 60.743999999999865,
+                "path_cost": 58.0,
+                "nodes_expanded": 5,
+                "treasures_collected": 1,
+                "deaths": 0,
+                "combat_wins": 0,
+                "steps_taken": 58,
+                "memory_peak": 0,
+                "treasures_total": 2,
+                "completion_pct": 100.0,
+                "hp_remaining": 100,
+                "star_rating": 2
+            }
+        ],
+        "human": [
+            {
+                "is_ai": false,
+                "algorithm_key": "",
+                "time_elapsed": 14.923999999999939,
+                "path_cost": 40.0,
+                "nodes_expanded": 0,
+                "treasures_collected": 0,
+                "deaths": 0,
+                "combat_wins": 0,
+                "steps_taken": 40,
+                "memory_peak": 0,
+                "treasures_total": 2,
+                "completion_pct": 50.0,
+                "hp_remaining": 100,
+                "star_rating": 2
+            }
+        ]
+    },
+    "7": {
+        "ai": [
+            {
+                "is_ai": true,
+                "algorithm_key": "local_beam",
+                "time_elapsed": 42.17099999999951,
+                "path_cost": 67.0,
+                "nodes_expanded": 4,
+                "treasures_collected": 1,
+                "deaths": 0,
+                "combat_wins": 0,
+                "steps_taken": 62,
+                "memory_peak": 0,
+                "treasures_total": 2,
+                "completion_pct": 100.0,
+                "hp_remaining": 90,
+                "star_rating": 2
+            }
+        ],
+        "local_beam": [
+            {
+                "is_ai": true,
+                "algorithm_key": "local_beam",
+                "time_elapsed": 42.87099999999956,
+                "path_cost": 71.0,
+                "nodes_expanded": 4,
+                "treasures_collected": 1,
+                "deaths": 0,
+                "combat_wins": 0,
+                "steps_taken": 66,
+                "memory_peak": 0,
+                "treasures_total": 2,
+                "completion_pct": 100.0,
+                "hp_remaining": 90,
+                "star_rating": 2
+            }
+        ],
+        "bfs": [
+            {
+                "is_ai": true,
+                "algorithm_key": "bfs",
+                "time_elapsed": 85.2690000000007,
+                "path_cost": 71.0,
+                "nodes_expanded": 489,
+                "treasures_collected": 1,
+                "deaths": 0,
+                "combat_wins": 0,
+                "steps_taken": 66,
+                "memory_peak": 0,
+                "treasures_total": 2,
+                "completion_pct": 100.0,
+                "hp_remaining": 9,
+                "star_rating": 2
+            }
+        ]
+    }
+}

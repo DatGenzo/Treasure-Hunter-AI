@@ -1,0 +1,2 @@
+# Fonts directory — place .ttf / .otf font files here.
+# The game uses fonts loaded via pygame.font.Font(path, size).

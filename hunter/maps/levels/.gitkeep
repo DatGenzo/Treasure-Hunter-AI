@@ -1,0 +1,2 @@
+# Level CSV files — loaded by MapLoader to construct the game grid.
+# Each file encodes a 30×22 tile grid using integer tile-type codes.
